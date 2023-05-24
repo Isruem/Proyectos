@@ -1,0 +1,67 @@
+body{
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.contenedorTodo{
+    left: 20%;
+    position: absolute;
+    height: 900px;
+    width: 1000px;
+}
+
+.contenedor11{
+    position: relative;
+    height:80%;
+    box-shadow: 0 5px 10px;
+}
+
+.contenedor11 h1{
+    position: relative;
+    font-size:40px;
+    left:40%;
+}
+.contenedor11 img{
+    top: 80px;
+    height: 600px;
+    width: 970px;
+    position: absolute;
+    left: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px;
+}
+
+.respuesta{
+    background-color: white;
+    box-shadow: 0 5px 10px;
+    height: 27%;
+    top: 700px;
+    width: 100%;
+    position: absolute;
+    font-size: 50px; 
+    text-align: center;
+}
+.respuesta7{
+    background-color: white;
+    box-shadow: 0 5px 10px;
+    height: 50%;
+    top: 700px;
+    width: 100%;
+    position: absolute;
+    font-size: 50px; 
+    text-align: center;
+}
+
+.respuesta20{
+    background-color: white;
+    box-shadow: 0 5px 10px;
+    height: 28%;
+    top: 700px;
+    width: 100%;
+    position: absolute;
+    font-size: 18px; 
+    text-align: center;
+}
